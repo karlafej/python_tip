@@ -1,5 +1,5 @@
-bqplot==0.11.0
-ipywidgets==7.3.0
-matplotlib==2.2.2
-numpy==1.15.0
-pandas==0.23.3
+bqplot
+ipywidgets
+matplotlib
+numpy
+pandas
